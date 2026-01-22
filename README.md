@@ -1,4 +1,10 @@
-## Hi there 👋
+## Welcome to my GitHub profile 👋
+- 🌱 I’m currently learning Rust as a functional programming language and advanced uses of C++17 conventions
+## Link to my internship work with INRIA
+Main repository:
+https://gitlab.inria.fr/poseidon/poseidon
+Features added are in:
+https://gitlab.inria.fr/poseidon/poseidon/-/tree/main/poseidon/poseidon/dfg_optimizer
 
 <!--
 **CogGrinder/CogGrinder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
