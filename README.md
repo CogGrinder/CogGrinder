@@ -1,5 +1,5 @@
 ## Welcome to my GitHub profile 👋
-- 🌱 I’m currently learning Rust as a functional programming language and advanced uses of C++17 conventions
+- 🌱 I’m currently transforming my 2048 solving project to industrial-grade C++17 to up-skill.  
 ## Link to my internship work with INRIA
 Main repository:
 https://gitlab.inria.fr/poseidon/poseidon
